@@ -31,8 +31,8 @@ export const portfolioData = {
       description:
         'A personal portfolio focused on modern UI, responsive design and interactive web experiences.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
-      link: 'YOUR_PORTFOLIO_GITHUB_LINK',
-      code: 'YOUR_PORTFOLIO_CODE_LINK',
+      link: 'https://arpita2901.github.io/My-portfolio/',
+      code: 'https://github.com/arpita2901/My-portfolio.git',
     },
     {
       title: 'Currency Converter',
